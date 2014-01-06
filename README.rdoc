@@ -1,1 +1,4 @@
 微信测试
+
+用 Grape 搭建微信公众平台回复 API 的蛋痛经过
+http://ruby-china.org/topics/8124
